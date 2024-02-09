@@ -18,7 +18,7 @@ public class LoginSuccess extends SavedRequestAwareAuthenticationSuccessHandler 
     public void onAuthenticationSuccess(HttpServletRequest request,
                                         HttpServletResponse response,
                                         Authentication authentication) throws
-            ServletException, IOException {
+             IOException {
 
         CustomUserDetails userDetails = (CustomUserDetails) authentication.getPrincipal();
 
@@ -30,7 +30,6 @@ public class LoginSuccess extends SavedRequestAwareAuthenticationSuccessHandler 
             redirectURL = "/bidList/list";
         }
         response.sendRedirect(redirectURL);
-
     }
 
 

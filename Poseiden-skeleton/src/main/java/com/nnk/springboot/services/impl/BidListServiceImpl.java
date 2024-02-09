@@ -31,13 +31,6 @@ public class BidListServiceImpl implements BidListService {
         bidListRepository.save(Bid);
     }
 
-    /**
-     *{@inheritDoc}
-     */
-    @Override
-    public Optional<BidList> findBidById(Integer id){
-        return bidListRepository.findById(id);
-    }
 
     /**
      *{@inheritDoc}

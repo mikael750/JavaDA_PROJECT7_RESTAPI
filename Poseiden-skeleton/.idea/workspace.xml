@@ -4,46 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24e3c9d7-c62e-483b-8e55-353725c412cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_6_1_0.xml" beforeDir="false" />
+    <list default="true" id="24e3c9d7-c62e-483b-8e55-353725c412cd" name="Changes" comment="MHE - clean up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/BidListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/BidListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/CurveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/CurveController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/RatingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/RatingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/RuleNameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/RuleNameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/config/LoginSuccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/config/LoginSuccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/controllers/TradeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/controllers/TradeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/services/BidListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/services/BidListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/services/impl/BidListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nnk/springboot/services/impl/BidListServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/BidTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/BidTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/CurvePointTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/CurvePointTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/RatingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/RatingTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/RuleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/RuleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/TradeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnk/springboot/services/TradeTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/TradeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/TradeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/controllers/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/BidList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/BidList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/CurvePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/CurvePoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/Rating.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/Rating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/RuleName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/RuleName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/Trade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/Trade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/BidListRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/BidListRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/CurvePointRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/CurvePointRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/RatingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/RatingRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/RuleNameRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/RuleNameRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/TradeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/TradeRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/repositories/UserRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/services/BidListService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/services/BidListService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nnk/springboot/services/impl/BidListServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnk/springboot/services/impl/BidListServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bidList/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bidList/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bidList/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bidList/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/bidList/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bidList/update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/curvePoint/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/curvePoint/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/curvePoint/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/curvePoint/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/curvePoint/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/curvePoint/update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/rating/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/rating/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/rating/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/rating/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/rating/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/rating/update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/ruleName/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/ruleName/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/ruleName/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/ruleName/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/ruleName/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/ruleName/update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/trade/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/trade/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/trade/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/trade/update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/user/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnk/springboot/services/BidTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnk/springboot/services/BidTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="bidEntity" />
+        <entry key="$PROJECT_DIR$/.." value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -71,12 +47,12 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/com/nnk/springboot/controllers/UserController.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/resources/templates/bidList/list.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/nnk/springboot/controllers/BidListController.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/resources/templates/trade/list.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/nnk/springboot/domain/User.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/resources/templates/403.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/nnk/springboot/Application.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/templates/trade/list.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -121,19 +97,33 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/nnk/springboot/config/LoginSuccess.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.12109375" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/nnk/springboot/config/LoginSuccess.java" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.nnk.springboot.service.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BidTests">
-    <configuration name="BidTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.Application" />
+      <module name="spring-boot-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nnk.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-skeleton" />
       <extension name="coverage">
         <pattern>
@@ -142,14 +132,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.nnk.springboot.services" />
-      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.BidTests" />
-      <option name="METHOD_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.RuleTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BidTests.bidListTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TradeTests.deleteTrade_ShouldReturn_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-skeleton" />
       <extension name="coverage">
         <pattern>
@@ -158,40 +147,41 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.nnk.springboot.services" />
-      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.BidTests" />
-      <option name="METHOD_NAME" value="bidListTest" />
+      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.TradeTests" />
+      <option name="METHOD_NAME" value="deleteTrade_ShouldReturn_True" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BidTests.bidListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="TradeTests.findAll_ShouldReturn_List" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-skeleton" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nnk.springboot.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.nnk.springboot.service" />
-      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.BidTests" />
-      <option name="METHOD_NAME" value="bidListTest" />
+      <option name="PACKAGE_NAME" value="com.nnk.springboot.services" />
+      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.TradeTests" />
+      <option name="METHOD_NAME" value="findAll_ShouldReturn_List" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PoseidonApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+    <configuration name="TradeTests.findById_ShouldReturn_firstTrade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-skeleton" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nnk.springboot.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.nnk.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.PoseidonApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.nnk.springboot.services" />
+      <option name="MAIN_CLASS_NAME" value="com.nnk.springboot.services.TradeTests" />
+      <option name="METHOD_NAME" value="findById_ShouldReturn_firstTrade" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PoseidonApplicationTests" />
-        <item itemvalue="JUnit.BidTests.bidListTest (1)" />
-        <item itemvalue="JUnit.BidTests.bidListTest" />
-        <item itemvalue="JUnit.BidTests" />
-        <item itemvalue="JUnit.PoseidonApplicationTests" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.TradeTests.deleteTrade_ShouldReturn_True" />
+        <item itemvalue="JUnit.TradeTests.findById_ShouldReturn_firstTrade" />
+        <item itemvalue="JUnit.TradeTests.findAll_ShouldReturn_List" />
+        <item itemvalue="JUnit.RuleTests" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +210,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8b2b9a0d-92ca-41ec-b602-c7058c5532b1" name="Changes" comment="" />
+      <changelist id="24e3c9d7-c62e-483b-8e55-353725c412cd" name="Changes" comment="" />
       <created>1696597623765</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -289,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699034164063</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="MHE - clean up">
+      <created>1706289970162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706289970162</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +314,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MHE - clean up + BidList java fields" />
-    <MESSAGE value="MHE - clean up" />
     <MESSAGE value="MHE - create and Inject BidListService" />
     <MESSAGE value="MHE - create bid repository Methods" />
     <MESSAGE value="MHE - moved tests" />
@@ -325,7 +321,15 @@
     <MESSAGE value="MHE - renamed service : services" />
     <MESSAGE value="MHE - javax to jakarta for JAVA 17" />
     <MESSAGE value="MHE - check data valid and save to db, after saving return bid list" />
-    <option name="LAST_COMMIT_MESSAGE" value="MHE - check data valid and save to db, after saving return bid list" />
+    <MESSAGE value="MHE - clean up" />
+    <option name="LAST_COMMIT_MESSAGE" value="MHE - clean up" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="bidListService" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Poseiden_skeleton$Application.ic" NAME="Application Coverage Results" MODIFIED="1703779718545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
